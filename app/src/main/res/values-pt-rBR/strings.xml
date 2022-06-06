@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Placar</string>
+    <string name="team_one_points">00</string>
+    <string name="team_two_points">00</string>
+    <string name="team_one_name">Time 1</string>
+    <string name="team_two_name">Time 2</string>
+    <string name="game_time_one">Primeiro Tempo</string>
+    <string name="game_time_two">Segundo Tempo</string>
+    <string name="game_time_three">Terceiro Tempo</string>
+    <string name="game_time_four">Quarto Tempo</string>
+    <string name="game_finished">Finalizado</string>
+    <string name="vs">VS</string>
+    <string name="match_history">Histórico de Partida</string>
+    <string name="default_date">dd/MM/yyyy hh:mm:ss</string>
+    <string name="nba_description">NBA logo image</string>
+
+
+    <!-- Buttons Text -->
+    <string name="button_reset">Parar</string>
+    <string name="button_play">Iniciar</string>
+    <string name="button_pause">Pausar</string>
+    <string name="button_register">Registrar</string>
+    <string name="button_create">Create Game</string>
+    <string name="button_history">Match History</string>
+
+    <!-- Buttons Description -->
+    <string name="button_save_game">Salvar jogo</string>
+    <string name="random_score">Placar aleatório</string>
+    <string name="remove_match">Remove partidas</string>
+
+    <!-- Hints Text -->
+    <string name="team_one_hint">Team 1</string>
+    <string name="team_two_hint">Team 2</string>
+</resources>
